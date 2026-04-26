@@ -1,4 +1,4 @@
-# 📊 BrightLearn SQL Exercises
+# BrightLearn SQL Exercises
 
 A collection of SQL exercises completed as part of the BrightLearn Data Analytics program.  
 These exercises build a strong foundation in SQL, progressing from basic querying to analytical problem-solving.
