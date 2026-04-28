@@ -1,7 +1,7 @@
 # BrightLearn SQL Exercises
 
-A collection of SQL exercises completed as part of the BrightLearn Data Analytics program.  
-These exercises build a strong foundation in SQL, progressing from basic querying to analytical problem-solving.
+A collection of SQL exercises and analytics tasks completed as part of the BrightLearn Data Analytics program.  
+This repository demonstrates my progression from foundational SQL skills to applying data analysis techniques in real-world scenarios.
 
 ---
 
@@ -87,7 +87,7 @@ Handling missing or incomplete data.
 
 ---
 
-## Exercise 6: Date Functions
+## Exercise 6: DATE Functions
 
 Working with and analysing time-based data.
 
@@ -104,7 +104,7 @@ Working with and analysing time-based data.
 
 ---
 
-## Exercise 7: BigQuery Exercise
+## BigQuery Exercise
 
 Applying SQL concepts in a real-world cloud environment.
 
@@ -120,6 +120,48 @@ Applying SQL concepts in a real-world cloud environment.
 
 ---
 
-## 🚀 Learning Progress
+## Business Analytics Terminology
 
-This repository reflects my progression from basic SQL querying to more advanced analytical techniques, including data transformation, aggregation, and time-based analysis.
+Understanding key business and data analytics concepts used in real-world environments.
+
+**Key Concepts:**
+- Data analytics terminology
+- Business intelligence concepts
+- Analytical frameworks
+
+**Skills:**
+- Interpreting business requirements  
+- Understanding analytical language  
+- Linking data to business decisions  
+
+---
+
+## Data Research Assignment
+
+This assignment focused on building a strong understanding of core data, analytics, and AI concepts used in modern data environments.
+
+**Topics Covered:**
+- Data foundations (Databases, Data Warehouses, Data Lakes, Data Marts)
+- Data types (Structured, Semi-Structured, Unstructured)
+- Data processing concepts (ETL, Data Modeling, Data Mining)
+- Database systems and storage formats (DBMS, CSV, JSON, Parquet, Avro)
+- Artificial Intelligence and Machine Learning fundamentals
+- Deep Learning, NLP, Computer Vision, and Large Language Models (LLMs)
+- APIs and data communication (REST APIs, JSON, API Keys)
+- Cloud computing and modern tools (IaaS, PaaS, SaaS)
+- Version control and development tools (Git, Jupyter Notebook, Python)
+- Data governance, privacy, ethics, and bias in AI
+- Business Intelligence and data-driven decision making
+
+**Skills Developed:**
+- Understanding key data and AI concepts  
+- Connecting technical concepts to real-world business use cases  
+- Research and independent learning  
+- Explaining complex topics in a simple and structured way  
+
+---
+
+## Learning Progress
+
+This repository reflects my growth as a beginner data analyst, building from basic SQL queries to more advanced data analysis techniques.  
+It demonstrates my ability to clean data, analyse trends, and apply structured thinking to solve business problems.
