@@ -5,6 +5,16 @@ This repository demonstrates my progression from foundational SQL skills to appl
 
 ---
 
+## Learning Notes
+
+This section provides a structured learning pathway from SQL fundamentals to advanced analytical techniques used in data analytics and business intelligence. It covers core concepts such as querying databases with SELECT, filtering and sorting data, using aggregate functions, grouping records, and combining data from multiple tables through joins. Learners also explore conditional logic using CASE statements and SQL best practices for writing clean, efficient, and maintainable code.
+
+Beyond querying, the section introduces advanced SQL topics including Common Table Expressions (CTEs), subqueries, window functions, ranking, views, and complex aggregations. It also covers essential data concepts such as data quality, validation, cleaning, and understanding different data types and structures. To support effective communication of insights, the section includes an introduction to data visualisation, dashboard design, data storytelling, and prompt engineering for analytics workflows.
+
+By completing this section, learners will develop the skills needed to retrieve, transform, analyse, and present data effectively, while building a strong foundation for real-world data analytics and business intelligence projects.
+
+---
+
 ## Exercise 1: SQL Fundamentals (SELECT & Filtering)
 
 Practice of core SQL querying using SELECT and filtering techniques.
